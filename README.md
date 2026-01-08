@@ -1,6 +1,6 @@
 # Sign Language Recognition
 
-A real-time sign language recognition system using MediaPipe, OpenCV, and scikit-learn.
+A real-time sign language recognition system using MediaPipe, OpenCV, and scikit-learn. This project tracks keypoints on hands live, using mediapipe in order to read sign langauge gestures in real time!
 
 ## Features
 - Hand landmark detection using MediaPipe
